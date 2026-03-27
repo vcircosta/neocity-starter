@@ -55,7 +55,7 @@ export default function Terminal() {
 
             case "help":
                 feedback =
-                    "Commands: storm | storm max | blackout | riot | drones | love | reset";
+                    "Commands: storm | storm max | blackout | riot | drones | love | reset | election";
                 break;
 
             case "election":
